@@ -27,4 +27,4 @@ See https://github.com/scala/scala-tool-support/tree/master/tool-support/notepad
 
 This UDL is based on Dracula configs for Java. Do not hesitate to contribute for improvments!
 
-![alt text](https://raw.githubusercontent.com/serge-inmost/notepad-plus-plus-dracula-scala/blob/master/UserScalaThemeCapture.png)
+![alt text](https://github.com/serge-inmost/notepad-plus-plus-dracula-scala/blob/master/UserScalaThemeCapture.PNG?raw=true)
