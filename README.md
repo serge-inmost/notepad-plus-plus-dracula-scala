@@ -26,3 +26,5 @@ Original Scala (clear themed) userDefineLang.xml was contributed by Stephane Mic
 See https://github.com/scala/scala-tool-support/tree/master/tool-support/notepad-plus
 
 This UDL is based on Dracula configs for Java. Do not hesitate to contribute for improvments!
+
+![alt text](https://raw.githubusercontent.com/serge-inmost/notepad-plus-plus-dracula-scala/UserScalaThemeCapture.png)
