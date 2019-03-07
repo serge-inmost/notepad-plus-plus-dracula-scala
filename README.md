@@ -12,9 +12,9 @@ This UDL is an extension to the popular Dracula Notepad++ theme, for Scala.
 If you don't have Dracula installed, please follow the instructions on https://github.com/dracula/notepad-plus-plus
 
 Then, to install the UDL: copy the file "userDefineLang.xml" to the following location:
-'''
+```
 %APPDATA%\Notepad++\
-'''
+```
 Restart your Notepad++ application.
 
 From that point on, loading a file whose name ends in ".scala" automatically
